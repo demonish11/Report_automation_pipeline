@@ -25,3 +25,5 @@ Leveraged AWS services for scalable and efficient data processing, ensuring high
 Enabled business teams to derive insightful Key Performance Indicators (KPIs) using Amazon QuickSight dashboards, leveraging Glue catalog tables for seamless data integration.
 
 This project exemplifies effective utilization of AWS services for data engineering and automation, resulting in tangible benefits for business operations and decision-making processes.
+
+![Report automation](https://github.com/demonish11/Report_automation_pipeline/assets/141517834/5148c4a6-4f3c-428f-ab16-adba441ea8f3)
