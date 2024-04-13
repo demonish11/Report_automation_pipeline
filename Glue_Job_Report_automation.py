@@ -9,10 +9,8 @@ from awsglue.job import Job
 from pyspark.sql.functions import input_file_name
 from awsglue.dynamicframe import DynamicFrame
 from pyspark.sql.types import *
-from pyspark.sql import functions as F
 from pyspark.sql.functions import *
 import numpy as np
-import re
 import pandas as pd
 from datetime import datetime,timedelta
 from io import BytesIO
